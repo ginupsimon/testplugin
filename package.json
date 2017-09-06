@@ -1,9 +1,9 @@
 {
-  "name": "newtestplugin",
+  "name": "newtestpluginginupsimon",
   "version": "1.0.0",
   "description": "test-plugin",
   "cordova": {
-    "id": "newtest-plugin",
+    "id": "newtestpluginginupsimon",
     "platforms": [
       "android"
     ]
