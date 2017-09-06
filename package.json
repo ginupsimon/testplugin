@@ -1,0 +1,26 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "description": "test-plugin",
+  "cordova": {
+    "id": "test-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ginupsimon/testplugin.git"
+  },
+  "keywords": [
+    "sso",
+    "login",
+    "user",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "ginu3687",
+  "license": "ISC"
+}
