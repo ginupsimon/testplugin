@@ -1,0 +1,26 @@
+{
+  "name": "newtestplugin",
+  "version": "1.0.0",
+  "description": "test-plugin",
+  "cordova": {
+    "id": "newtest-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginupsimon/testplugin.git"
+  },
+  "keywords": [
+    "newtest-plugin",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "ginupsimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginupsimon/testplugin/issues"
+  },
+  "homepage": "https://github.com/ginupsimon/testplugin#readme"
+}

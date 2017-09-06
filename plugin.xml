@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-      id="test-plugin"
+      id="newtest-plugin"
       version="1.0.0">
-    <name>test-plugin</name>
-    <description>test-plugin</description>
+    <name>newtest-plugin</name>
+    <description>newtest-plugin</description>
     <license></license>
-    <keywords>test-plugin</keywords>
+    <keywords>newtest-plugin</keywords>
     <repo></repo>
     <issue></issue>
 
